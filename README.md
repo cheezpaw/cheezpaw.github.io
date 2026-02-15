@@ -1,50 +1,36 @@
-# ✨ 임혜수 (Heysu Eem) | Portfolio & Dev Blog
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-"다양한 프레임워크를 활용해 최적의 사용자 경험을 설계하는 프론트엔드 개발자입니다."
+## Getting Started
 
-현재 **Next.js**와 **TypeScript**를 주력으로 사용하여 개인 홈페이지를 구축하였습니다. 
+First, run the development server:
 
----
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-### 기술 스택
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-**Frontend**
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-**Mobile**
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-**Deployment**
-- ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white)
+## Learn More
 
----
+To learn more about Next.js, take a look at the following resources:
 
-### 주요 강점
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-- **반응형 디자인**: 모바일, 태블릿, 데스크탑 등 모든 디렉토리 환경에 최적화된 인터페이스 제공
-- **SEO 최적화**: 검색 엔진 최적화를 통해 구글 및 네이버 검색 노출 최적화
-- **다크/라이트 모드 지원**: 사용자 기기 설정에 대응하는 테마 시스템 구축
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
----
+## Deploy on Vercel
 
-### 블로그 & 이력
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-저는 개발 외에도 활발한 블로거로 활동하고 있습니다. **광고 협찬 및 비즈니스 협업**을 진행하며 영향력을 넓혀가고 있습니다.
-
-- **네이버 블로그**: [미니핀의 테이블](https://blog.naver.com/cheez_paw)
-- **커머스 디자인**: '달미푸드' 등 다수의 식품 브랜드 상세페이지 제작 및 브랜딩 참여
-- **브랜딩**: 기업 및 서비스의 아이덴티티를 반영한 웹사이트 구축
-  
----
-
-### 연락처
-
-- **Email**: `paw@kakao.com`
-- **Phone**: `+82-010-4214-4414`
-- **GitHub**: [cheezpaw](https://github.com/cheezpaw)
-- **네이버 블로그**: [미니핀의 테이블](https://blog.naver.com/cheez_paw)
-- **티스토리**: [귀펀치토끼는 부서지지 않는다.] (https://blackpaw.tistory.com)
-
----
-
-Copyright © 2026 Heysu Eem. Built with Next.js.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
