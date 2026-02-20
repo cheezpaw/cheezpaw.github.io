@@ -24,3 +24,17 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.width1200 {
+  width: 100%;
+  max-width: 1200px;
+}
+
+.headerHeight {
+  margin-top: 60px;
+}
+
+.con01 {
+  background-color: #000;
+  padding-bottom: 5vw;
+}
